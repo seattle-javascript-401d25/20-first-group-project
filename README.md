@@ -1,7 +1,7 @@
 ![cf](https://i.imgur.com/7v5ASc8.png) Lab 20: Project Week Kickoff - Group Deployment of Basic Authentication 
 ======
 
-### The deadline for FULL POINTS for this assignment is *Friday, June 6 by 11:59 p.m*. There will be NO grace period offered on this assignment. Any submissions past this deadline will be docked 2 late points. 
+### The deadline for FULL POINTS for this assignment is *Friday, July 6 by 11:59 p.m*. There will be NO grace period offered on this assignment. Any submissions past this deadline will be docked 2 late points. 
 
 ## Instructions
 
