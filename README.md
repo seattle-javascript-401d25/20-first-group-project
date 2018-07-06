@@ -1,6 +1,8 @@
 ![cf](https://i.imgur.com/7v5ASc8.png) Lab 20: Project Week Kickoff - Group Deployment of Basic Authentication 
 ======
 
+### The deadline for FULL POINTS for this assignment is *Friday, June 6 by 11:59 p.m*. There will be NO grace period offered on this assignment. Any submissions past this deadline will be docked 2 late points. 
+
 ## Instructions
 
 You will be working together to write and deploy a **fully tested basic authentication router** to kick off your project. This will be the first code you commit to your project so you can hit the ground running on Monday without worrying about authentication. 
@@ -14,12 +16,13 @@ Please assess your individual abilities and **be honest with yourself and your g
 This lab assignment **requires extensive pair programming**. Here is how that works:
   * **People who are not technically strong:** *You should be the driver*. Be sure to listen to your colleagues carefully as they instruct you what you should type, but be sure to ask any clarifying questions about things you don't understand so you can learn from your peers. **You should be the one touching a keyboard most of the time**. Stand up for yourself and do not allow yourself to get steamrolled. 
   * **People who ARE technically strong**: *You should be the navigator*. Your goal is to take on a mentoring role. You already have the technical chops, now you have to refine it with building strong leadership skills that can propel you to senior roles in the industry. Guide your partner through writing the code. Explain what the code does as they type along and answer any questions they have. Use this experience to solidify your own knowledge, and possibly fill in gaps as well as you are forced to explain concepts to someone who doesn't understand them. **Try not to write any code during this time**. Your job is to guide and teach someone else how to write this code.  
-  * **If you conclude you are of equal skill level**: Still pair program anyway, but trade off accordingly and explain in your Canvas submission why you felt there was no need to follow the above guidelines
+  * **If you conclude you are of equal skill level**: Still pair program anyway, but trade off accordingly and explain in your Canvas submission why you felt there was no need to strictly follow the above guidelines
 
   ### Groups of Three
   * Two people should pair program according to the above guidelines. The third person is allowed to start working on the [project prep requirements due Sunday](https://github.com/codefellows/seattle-javascript-401d25/blob/master/PROJECT.md). You should trade off pair programming accordingly. 
   * For example, Person A and Person B pair program while Person C works on prep materials. After some time, Person B trades places with Person C. Person A and C should decide who should be driving/navigating per the guidelines, and Person B can resume Person C's work on the prep materials. 
   * The third person who is not pair programming is **not allowed** to work on any part of the Basic Authenication code by themselves.
+  * *Everyone* should be involved in pair programming at any one point. The odd person out *should not* focus their entire time on the other prep materials while the other two pair program. There should be appropriate trading off. 
   * If you want to mob program as a a group of three, that's OK too. Please decide who should be the driver (**the person who feels not as technically strong as the other two should be doing it**), and explain in your Canvas submission that you mob programmed together. 
 
   ### Group of Four
@@ -74,7 +77,7 @@ This lab assignment **requires extensive pair programming**. Here is how that wo
 ## Submission Instructions
 
 * Submit on Canvas the following:
-  * a link to your `Insights` information on your Github repo that shows the commits of your contributors. You can find this by clicking the `Insights` tab of your repo, and clicking `Contributors`, i.e. [such as this.](https://github.com/spinaltaper/phrasecraze/graphs/contributors)
+  * a link to your `Insights` information on your Github repo that shows the commits of your contributors. You can find this by clicking the `Insights` tab of your repo, and clicking `Contributors`, i.e. [this.](https://github.com/spinaltaper/phrasecraze/graphs/contributors)
   * a link to your PR, or to multiple PRs if you made more than one
   * a link to your deployed Heroku URL
   * a **candid and honest** reflection of how your pair programming/mob programming experience went. 
